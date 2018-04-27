@@ -1,18 +1,17 @@
-package cn.quancheng.mdemo1.service;
+package cn.quancheng.mdemo1test.service;
 
-import cn.quancheng.mdemo1.model.Customer;
+import cn.quancheng.mdemo1test.model.Customer;
 
 import java.util.List;
 import java.util.Map;
 
-public class CustromerService {
+public class CustomerService {
 
     /**
      * 获取客户列表
-     * @param keyWrod
      * @return
      */
-    public List<Customer> getCustomerList(String keyWrod){
+    public List<Customer> getCustomerList(){
         return null;
     }
 

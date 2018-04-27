@@ -1,4 +1,4 @@
-package cn.quancheng.mdemo1.model;
+package cn.quancheng.mdemo1test.model;
 
 public class Customer {
     private int id;

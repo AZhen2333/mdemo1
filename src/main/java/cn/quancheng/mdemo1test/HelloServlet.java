@@ -1,4 +1,4 @@
-package cn.quancheng.mdemo1;
+package cn.quancheng.mdemo1test;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

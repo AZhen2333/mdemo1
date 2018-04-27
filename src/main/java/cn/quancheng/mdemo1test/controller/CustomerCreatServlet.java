@@ -1,4 +1,4 @@
-package cn.quancheng.mdemo1.controller;
+package cn.quancheng.mdemo1test.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
